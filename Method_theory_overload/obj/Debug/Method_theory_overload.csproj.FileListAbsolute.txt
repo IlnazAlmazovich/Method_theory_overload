@@ -1,0 +1,8 @@
+C:\Users\Ilnaz.Farhullin\Desktop\Method_theory_overload\Method_theory_overload\bin\Debug\Method_theory_overload.exe.config
+C:\Users\Ilnaz.Farhullin\Desktop\Method_theory_overload\Method_theory_overload\bin\Debug\Method_theory_overload.exe
+C:\Users\Ilnaz.Farhullin\Desktop\Method_theory_overload\Method_theory_overload\bin\Debug\Method_theory_overload.pdb
+C:\Users\Ilnaz.Farhullin\Desktop\Method_theory_overload\Method_theory_overload\obj\Debug\Method_theory_overload.csproj.AssemblyReference.cache
+C:\Users\Ilnaz.Farhullin\Desktop\Method_theory_overload\Method_theory_overload\obj\Debug\Method_theory_overload.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ilnaz.Farhullin\Desktop\Method_theory_overload\Method_theory_overload\obj\Debug\Method_theory_overload.csproj.CoreCompileInputs.cache
+C:\Users\Ilnaz.Farhullin\Desktop\Method_theory_overload\Method_theory_overload\obj\Debug\Method_theory_overload.exe
+C:\Users\Ilnaz.Farhullin\Desktop\Method_theory_overload\Method_theory_overload\obj\Debug\Method_theory_overload.pdb
